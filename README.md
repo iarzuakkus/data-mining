@@ -1,5 +1,5 @@
- Data Mining – Firma Bilgileri Çekme Projesi
- Proje Özeti
+## Data Mining – Firma Bilgileri Çekme Projesi
+###Proje Özeti
 Bu proje kapsamında, verilen firma isimlerinden:
 
 - Web sitesi adresleri
